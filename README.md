@@ -1,3 +1,4 @@
 # TableViewSectionDemo
 
-# run pod install before run the project
+# Run the below command after cloning the project.
+# $ pod install
